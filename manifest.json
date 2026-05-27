@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "End Expansion",
+		"description": "End Expansion Resource Pack",
+		"uuid": "b2631103-1ce3-2694-0dcb-c3db86e86634",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Swordspark Games"],
+		"generated_with": {
+			"blockbench_block_wizard": ["1.7.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Expanding the End dimension with new blocks, items, entities, and more boss fights and a better structure generation and end dragon fight.",
+			"type": "resources",
+			"uuid": "f2823552-b955-ad0e-483a-140f9ca866e5",
+			"version": [1, 0, 0]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "5730bc28-ece0-0849-b8cf-9fa926cbdc27",
+			"version": [1, 0, 0]
+		}
+	]
+}

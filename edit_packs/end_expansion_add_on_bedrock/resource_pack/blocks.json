@@ -1,7 +1,10 @@
 {
 	"format_version": "1.21.0",
+	"myname:endstone_coal_ore": {
+		"sound": "stone"
+	},
 	"myname:endstone_iron_ore": {
-		"sound": "endstone"
+		"sound": "stone"
 	},
 	"myname:sovereign_chorus_wood": {
 		"sound": "wood"

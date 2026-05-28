@@ -1,7 +1,7 @@
 {
 	"format_version": "1.21.0",
 	"myname:endstone_iron_ore": {
-		"sound": "stone"
+		"sound": "endstone"
 	},
 	"myname:sovereign_chorus_wood": {
 		"sound": "wood"

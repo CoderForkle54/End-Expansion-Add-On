@@ -3,7 +3,7 @@
 - [About](#About)
 - [Introduction](#Introduction)
 - [Documentation](#Documention)
-- [Version and Changelog](#What's New)
+- [Version and Changelog](#Changelog)
 
 
 ### About:

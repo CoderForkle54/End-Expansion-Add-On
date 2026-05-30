@@ -1,5 +1,5 @@
 # End-Expansion-Add-On
-## by Swordspark Games
+## Swordspark Games
 
 ### Table of Contents
 - [About](#About)

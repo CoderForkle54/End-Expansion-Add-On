@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.60",
+  "format_version": "1.21.0",
   "minecraft:tree_feature": {
     "description": {
       "identifier": "end_expansion:sovereign_chorus_tree"
@@ -9,16 +9,19 @@
         "name": "end_expansion:sovereign_chorus_log"
       },
       "trunk_height": {
-        "base": 9,
-        "intervals": [3, 6]
+        "min": 9,
+        "max": 15
       }
     },
     "foliage": {
       "foliage_block": {
         "name": "end_expansion:sovereign_chorus_leaves"
       },
-      "foliage_height": 4,
-      "foliage_radius": 3
+      "foliage_placer": {
+        "type": "blob",
+        "radius": 3,
+        "height": 4
+      }
     },
     "may_grow_on": [
       "end_expansion:chorus_grass",
@@ -35,4 +38,4 @@
       "minecraft:end_stone"
     ]
   }
-}  
+}

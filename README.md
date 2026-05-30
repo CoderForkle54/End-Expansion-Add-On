@@ -1,4 +1,4 @@
-# End-Expansion-Add-On
+# End-Expansion Add-On
 ## Swordspark Games
 
 ### Table of Contents

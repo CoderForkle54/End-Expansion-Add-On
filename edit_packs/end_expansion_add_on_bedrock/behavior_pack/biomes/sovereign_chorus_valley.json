@@ -1,5 +1,5 @@
 {
-  "format_version": "1.21.60",
+  "format_version": "1.21.0",
   "minecraft:biome": {
     "description": {
       "identifier": "end_expansion:sovereign-chorus-valley"
@@ -14,20 +14,14 @@
         "noise_type": "lowlands"
       },
       "minecraft:surface_parameters": {
-        "top_material": "minecraft:grass_block",
-        "mid_material": "minecraft:endstone",
-        "foundation_material": "minecraft:endstone",
+        "top_material": "minecraft:end_stone",
+        "mid_material": "minecraft:end_stone",
+        "foundation_material": "minecraft:end_stone",
         "sea_floor_depth": 12,
-        "sea_floor_material": "minecraft:endstone"
-      },
-      "minecraft:overworld_generation_rules": {
-        "generate_for_climates": [
-          ["medium", 10],
-          ["warm", 5]
-        ]
+        "sea_floor_material": "minecraft:end_stone"
       },
       "minecraft:tags": {
-        "tags": ["overworld", "sovereign-chorus-valley"]
+        "tags": ["end", "sovereign-chorus-valley"]
       }
     }
   }

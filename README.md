@@ -6,6 +6,7 @@
 - [Introduction](#Introduction)
 - [Documentation](#Documention)
 - [Version and Changelog](#Changelog)
+- [Notes](#Notes)
 
 
 #### About:

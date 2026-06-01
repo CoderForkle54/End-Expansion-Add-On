@@ -76,8 +76,7 @@ For developers and advanced users, here is a summary of the technical implementa
 - **Platform**: Minecraft Bedrock Edition
 - **License**: All rights reserved. Do not redistribute without permission.
 - **Support**: For bugs or feature requests, please open an issue in this repository.
-
-> **Note**: This add-on is in active development. Some features may change or be removed in future updates. Always backup your worlds before installing new mods.
-
+- **Note**: This add-on is in active development. Some features may change or be removed in future updates. Always backup your worlds before installing new mods.
+    A sneak peak for for what is coming is in the docs.
 ---
 *Made with ❤️ by Swordspark Games*

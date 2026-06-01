@@ -1,0 +1,8 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"dark_levitation_projectile_attack.elder_shulker": {
+			"loop": true
+		}
+	}
+}

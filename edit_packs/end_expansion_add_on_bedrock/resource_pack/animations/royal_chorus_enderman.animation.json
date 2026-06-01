@@ -1,0 +1,103 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.royal_chorus_enderman.arms_legs": {
+			"loop": true,
+			"bones": {
+				"leftArm": {
+					"rotation": ["math.clamp(this, -22.92, 22.92) - this", 0, 0]
+				},
+				"leftLeg": {
+					"rotation": ["math.clamp(this, -22.92, 22.92) - this", 0, 0]
+				},
+				"rightArm": {
+					"rotation": ["math.clamp(this, -22.92, 22.92) - this", 0, 0]
+				},
+				"rightLeg": {
+					"rotation": ["math.clamp(this, -22.92, 22.92) - this", 0, 0]
+				}
+			}
+		},
+		"animation.royal_chorus_enderman.carrying": {
+			"loop": true,
+			"bones": {
+				"leftArm": {
+					"rotation": ["-28.65 - this", 0, "-2.87 - this"]
+				},
+				"rightArm": {
+					"rotation": ["-28.65 - this", 0, "2.87 - this"]
+				}
+			}
+		},
+		"animation.royal_chorus_enderman.scary_face": {
+			"loop": true,
+			"bones": {
+				"hat": {
+					"position": [0, "-5.0 - this", 0]
+				},
+				"head": {
+					"position": [0, "5.0 - this", 0]
+				}
+			}
+		},
+		"animation.royal_chorus_enderman.attack.rotations": {
+			"loop": true,
+			"animation_length": 0.375,
+			"bones": {
+				"body": {
+					"rotation": [0, "math.sin(math.sqrt(variable.attack_time) * 360) * 11.46 - this", 0]
+				},
+				"leftArm": {
+					"rotation": {
+						"0.0": ["-2.5547+math.sin(math.sqrt(variable.attack_time) * 360) * 11.46", -0.3221, 2.5262],
+						"0.0417": ["284.8593+math.sin(math.sqrt(variable.attack_time) * 360) * 11.46", 14.6627, 1.8431],
+						"0.2083": [311.9508, -0.0049, -1.3326],
+						"0.375": ["279.8593+math.sin(math.sqrt(variable.attack_time) * 360) * 11.46", 14.6627, 1.8431]
+					}
+				},
+				"rightArm": {
+					"rotation": {
+						"0.0": [
+							"6.7134+math.sin(1.0 - math.pow(1.0 - variable.attack_time, 3.0) * 180.0) * (variable.is_brandishing_spear ? -1.0 : 1.0 )",
+							"-113.946+variable.is_brandishing_spear ? 0.0 : (math.sin(math.sqrt(variable.attack_time) * 360) * 11.46) * 2.0",
+							-1.1497
+						],
+						"0.2083": [
+							"-27.9569+math.sin(1.0 - math.pow(1.0 - variable.attack_time, 3.0) * 180.0) * (variable.is_brandishing_spear ? -1.0 : 1.0 )",
+							"-112.5884+variable.is_brandishing_spear ? 0.0 : (math.sin(math.sqrt(variable.attack_time) * 360) * 11.46) * 2.0",
+							-2.422
+						]
+					}
+				}
+			}
+		},
+		"animation.royal_chorus_enderman.bob": {
+			"loop": true,
+			"bones": {
+				"leftArm": {
+					"rotation": [0, 0, "((math.cos(query.life_time * 103.2) * 2.865) + 2.865) *-1.0"]
+				},
+				"rightArm": {
+					"rotation": [0, 0, "(math.cos(query.life_time * 103.2) * 2.865) + 2.865"]
+				}
+			}
+		},
+		"animation.royal_chorus_enderman.move": {
+			"loop": true,
+			"bones": {
+				"leftArm": {
+					"rotation": ["variable.tcos0", 0, 0]
+				},
+				"leftLeg": {
+					"rotation": ["variable.tcos0 * -1.4", 0, 0]
+				},
+				"rightArm": {
+					"rotation": ["-variable.tcos0", 0, 0]
+				},
+				"rightLeg": {
+					"rotation": ["variable.tcos0 * 1.4", 0, 0]
+				}
+			}
+		}
+	}
+}

@@ -77,6 +77,6 @@ For developers and advanced users, here is a summary of the technical implementa
 - **License**: All rights reserved. Do not redistribute without permission.
 - **Support**: For bugs or feature requests, please open an issue in this repository.
 - **Note**: This add-on is in active development. Some features may change or be removed in future updates. Always backup your worlds before installing new mods.
-    A sneak peak for for what is coming is in the docs.
+    A sneak peak for for what is coming is in the docs. Also the upcoming versions are a sneak peak visit the release notes to get more.
 ---
 *Made with ❤️ by Swordspark Games*

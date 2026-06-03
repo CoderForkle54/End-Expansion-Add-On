@@ -19,7 +19,7 @@
       "iterations": 12,
       "coordinate_eval_order": "zxy",
       "x": { "distribution": "uniform", "extent": [0, 16] },
-      "y": { "distribution": "uniform", "extent": [0, 0] },
+      "y": { "distribution": "uniform", "extent": [0, 18] },
       "z": { "distribution": "uniform", "extent": [0, 16] }
     }
   }

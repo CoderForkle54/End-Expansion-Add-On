@@ -15,7 +15,7 @@ A comprehensive Minecraft Bedrock Edition add-on that expands the End dimension 
 ---
 
 ### About
-**End-Expansion** is the official project hub for the **Swordspark Games** team. We are dedicated to creating immersive, high-quality content for the Minecraft Bedrock community.
+This is the official project hub for the **Swordspark Games** team's **End-Expansion Addon**. We are dedicated to creating immersive, high-quality content for the Minecraft Bedrock community.
 
 This add-on is designed to breathe new life into the End dimension, adding depth, variety, and new gameplay mechanics. Soon, this project will be available on **CurseForge** for easy installation and updates.
 
@@ -34,13 +34,13 @@ The End is no longer just a barren wasteland of obsidian pillars and Endermen. W
 - 🛠️ **Bedrock Optimized**: Built specifically for Minecraft Bedrock Edition (1.21+) using the latest feature flags.
 
 ### Installation
-1.  **Download**: Get the latest `.mcaddon` or `.mcpack` file from the [Releases](#) page (Coming Soon).
-2.  **Import**: Click the file to automatically import it into Minecraft Bedrock Edition.
-3.  **Activate**:
-    - Go to **Settings** > **Global Resources** (for Resource Pack) and **Behavior Packs** (for Behavior Pack).
-    - Activate both packs.
-    - Create a **New World** and enable the packs in the world settings.
-    - *Note: This add-on requires a fresh world to generate the new biomes correctly.*
+1. **Download**: Get the latest `.mcaddon` or `.mcpack` file from the [Releases](#) page (Coming Soon).
+2. **Import**: Click the file to automatically import it into Minecraft Bedrock Edition.
+3. **Activate**:
+   - Go to **Settings** > **Global Resources** (for Resource Pack) and **Behavior Packs** (for Behavior Pack).
+   - Activate both packs.
+   - Create a **New World** and enable the packs in the world settings.
+   - *Note: This add-on requires a fresh world to generate the new biomes correctly.*
 
 ### Documentation
 For developers and advanced users, here is a summary of the technical implementation:
@@ -77,6 +77,8 @@ For developers and advanced users, here is a summary of the technical implementa
 - **License**: All rights reserved. Do not redistribute without permission.
 - **Support**: For bugs or feature requests, please open an issue in this repository.
 - **Note**: This add-on is in active development. Some features may change or be removed in future updates. Always backup your worlds before installing new mods.
-    A sneak peak for for what is coming is in the docs. Also the upcoming versions are a sneak peak visit the release notes to get more.
+
+A sneak peek at what is coming is available in the docs. Check the release notes for more details on upcoming versions.
+
 ---
 *Made with ❤️ by Swordspark Games*

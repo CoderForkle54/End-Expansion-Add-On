@@ -55,21 +55,35 @@ For developers and advanced users, here is a summary of the technical implementa
 
 ### Version and Changelog
 
-#### v0.1.0-alpha (Current)
+#### Previous Versions
+
+##### v0.1.0-alpha (Previous Version)
 - **Added**: Sovereign Chorus Valley biome definition.
 - **Added**: Sovereign Chorus Tree feature and generation rules.
-- **Added**: Custom wood set (Logs, Planks) with full crafting recipes.
-- **Added**: Custom boat recipe and item definition.
+- **Added**: Custom wood set (Logs, Planks).
 - **Fixed**: Biome tag mismatch between biome and feature rules.
-- **Fixed**: Tree generation height and foliage placement errors.
 - **Fixed**: Explosion resistance and flammability settings for planks.
 - **Changed**: Updated `format_version` to `1.21.0` for compatibility.
 
-#### Upcoming (v0.2.0)
+#### Current Version:
+
+##### (v0.2.0-alpha)
 - New mobs native to the Sovereign Chorus Valley.
-- Custom weapons and armor sets.
-- Additional biomes (e.g., Chorus Forest, Void Islands).
-- Port to CurseForge.
+   - Chorus Slime (Probaly Not the Final Name)
+   - Sovereign Chorus Endermen (Models are work in Progress
+- Port to CurseForge.New mobs native to the Sovereign Chorus Valley. (Still in early stages)
+- Added crafting recipes
+- Port to CurseForge. (Yeah!!!!)
+  
+#### Upcoming Versions
+
+##### (v0.3.0-alpha)
+- Generation Code and Scripting
+- More Biomes! Plus More endermen!!!!!
+- Structures
+- Ambiet particles and Fog
+- New Bosses?
+- Armor, custom ores, and much more!!!
 
 ### Credits & Notes
 - **Developer**: Swordspark Games

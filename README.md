@@ -71,7 +71,7 @@ For developers and advanced users, here is a summary of the technical implementa
 - New mobs native to the Sovereign Chorus Valley.
    - Chorus Slime (Probaly Not the Final Name)
    - Sovereign Chorus Endermen (Models are work in Progress
-- Port to CurseForge.New mobs native to the Sovereign Chorus Valley. (Still in early stages)
+- New mobs native to the Sovereign Chorus Valley. (Still in early stages)
 - Added crafting recipes
 - Port to CurseForge. (Yeah!!!!)
   

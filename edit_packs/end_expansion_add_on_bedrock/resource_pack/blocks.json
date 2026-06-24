@@ -1,83 +1,112 @@
 {
-  "format_version": "1.21.60",
-  "minecraft:block": {
-    "description": {
-      "identifier": "myname:endstone_coal_ore",
-      "sound": "stone"
-    },
-    "components": {
-      "minecraft:destructible_by_mining": { "seconds": 1.5 },
-      "minecraft:health": { "value": 3 },
-      "minecraft:material_instances": {
-        "*": {
-          "texture": "endstone_coal_ore",
-          "render_method": "alpha_test"
-        }
-      }
-    }
-  },
-  "myname:endstone_iron_ore": {
-    "description": {
-      "identifier": "myname:endstone_iron_ore",
-      "sound": "stone"
-    },
-    "components": {
-      "minecraft:destructible_by_mining": { "seconds": 1.5 },
-      "minecraft:health": { "value": 3 },
-      "minecraft:material_instances": {
-        "*": {
-          "texture": "endstone_iron_ore",
-          "render_method": "alpha_test"
-        }
-      }
-    }
-  },
-  "myname:sovereign_chorus_wood": {
-    "description": {
-      "identifier": "myname:sovereign_chorus_wood",
-      "sound": "wood"
-    },
-    "components": {
-      "minecraft:destructible_by_mining": { "seconds": 1.5 },
-      "minecraft:health": { "value": 3 },
-      "minecraft:material_instances": {
-        "*": {
-          "texture": "sovereign_chorus_wood",
-          "render_method": "alpha_test"
-        }
-      }
-    }
-  },
-  "myname:sovereign_chorus_log": {
-    "description": {
-      "identifier": "myname:sovereign_chorus_log",
-      "sound": "wood"
-    },
-    "components": {
-      "minecraft:destructible_by_mining": { "seconds": 1.5 },
-      "minecraft:health": { "value": 3 },
-      "minecraft:material_instances": {
-        "*": {
-          "texture": "sovereign_chorus_log",
-          "render_method": "alpha_test"
-        }
-      }
-    }
-  },
-  "myname:sovereign_chorus_leaves": {
-    "description": {
-      "identifier": "myname:sovereign_chorus_leaves",
-      "sound": "grass"
-    },
-    "components": {
-      "minecraft:destructible_by_mining": { "seconds": 0.5 },
-      "minecraft:health": { "value": 1 },
-      "minecraft:material_instances": {
-        "*": {
-          "texture": "sovereign_chorus_leaves",
-          "render_method": "alpha_test"
-        }
-      }
-    }
-  }
+	"format_version": "1.21.60",
+	"myname:spinel_ore": {
+		"sound": "stone"
+	},
+	"myname:purpur_bush": {
+		"sound": "grass"
+	},
+	"myname:sovereign_chorus_fence": {
+		"sound": "wood"
+	},
+	"minecraft:block": {
+		"description": {
+			"identifier": "myname:endstone_coal_ore",
+			"sound": "stone"
+		},
+		"components": {
+			"minecraft:destructible_by_mining": {
+				"seconds": 1.5
+			},
+			"minecraft:health": {
+				"value": 3
+			},
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "endstone_coal_ore",
+					"render_method": "alpha_test"
+				}
+			}
+		}
+	},
+	"myname:endstone_iron_ore": {
+		"description": {
+			"identifier": "myname:endstone_iron_ore",
+			"sound": "stone"
+		},
+		"components": {
+			"minecraft:destructible_by_mining": {
+				"seconds": 1.5
+			},
+			"minecraft:health": {
+				"value": 3
+			},
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "endstone_iron_ore",
+					"render_method": "alpha_test"
+				}
+			}
+		}
+	},
+	"myname:sovereign_chorus_wood": {
+		"description": {
+			"identifier": "myname:sovereign_chorus_wood",
+			"sound": "wood"
+		},
+		"components": {
+			"minecraft:destructible_by_mining": {
+				"seconds": 1.5
+			},
+			"minecraft:health": {
+				"value": 3
+			},
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "sovereign_chorus_wood",
+					"render_method": "alpha_test"
+				}
+			}
+		}
+	},
+	"myname:sovereign_chorus_log": {
+		"description": {
+			"identifier": "myname:sovereign_chorus_log",
+			"sound": "wood"
+		},
+		"components": {
+			"minecraft:destructible_by_mining": {
+				"seconds": 1.5
+			},
+			"minecraft:health": {
+				"value": 3
+			},
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "sovereign_chorus_log",
+					"render_method": "alpha_test"
+				}
+			}
+		}
+	},
+	"myname:sovereign_chorus_leaves": {
+		"description": {
+			"identifier": "myname:sovereign_chorus_leaves",
+			"sound": "grass"
+		},
+		"components": {
+			"minecraft:destructible_by_mining": {
+				"seconds": 0.5
+			},
+			"minecraft:health": {
+				"value": 1
+			},
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "sovereign_chorus_leaves",
+					"render_method": "alpha_test"
+				}
+			}
+		}
+	}
 }

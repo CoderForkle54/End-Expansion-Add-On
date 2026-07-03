@@ -7,7 +7,6 @@
     },
     "components": {
       "minecraft:destructible_by_mining": { "seconds": 1.5 },
-      "minecraft:health": { "value": 3 },
       "minecraft:material_instances": {
         "*": {
           "texture": "endstone_coal_ore",
@@ -23,7 +22,6 @@
     },
     "components": {
       "minecraft:destructible_by_mining": { "seconds": 1.5 },
-      "minecraft:health": { "value": 3 },
       "minecraft:material_instances": {
         "*": {
           "texture": "endstone_iron_ore",
@@ -39,7 +37,6 @@
     },
     "components": {
       "minecraft:destructible_by_mining": { "seconds": 1.5 },
-      "minecraft:health": { "value": 3 },
       "minecraft:material_instances": {
         "*": {
           "texture": "sovereign_chorus_wood",
@@ -55,7 +52,6 @@
     },
     "components": {
       "minecraft:destructible_by_mining": { "seconds": 1.5 },
-      "minecraft:health": { "value": 3 },
       "minecraft:material_instances": {
         "*": {
           "texture": "sovereign_chorus_log",
@@ -71,7 +67,6 @@
     },
     "components": {
       "minecraft:destructible_by_mining": { "seconds": 0.5 },
-      "minecraft:health": { "value": 1 },
       "minecraft:material_instances": {
         "*": {
           "texture": "sovereign_chorus_leaves",

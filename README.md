@@ -57,7 +57,7 @@ For developers and advanced users, here is a summary of the technical implementa
 
 #### Previous Versions
 
-##### v0.1.0-alpha (Previous Version)
+##### v0.1.0-alpha
 - **Added**: Sovereign Chorus Valley biome definition.
 - **Added**: Sovereign Chorus Tree feature and generation rules.
 - **Added**: Custom wood set (Logs, Planks).
@@ -65,34 +65,28 @@ For developers and advanced users, here is a summary of the technical implementa
 - **Fixed**: Explosion resistance and flammability settings for planks.
 - **Changed**: Updated `format_version` to `1.21.0` for compatibility.
 
-#### Current Version:
+#### Current Version: v0.2.0-alpha
+- **Added**: New native mobs for the Sovereign Chorus Valley.
+  - *Chorus Slime* (Name subject to change)
+  - *Sovereign Chorus Endermen* (Models currently in progress)
+- **Added**: Expanded crafting recipes.
+- **Updated**: Preparation for the official CurseForge release.
 
-##### (v0.2.0-alpha)
-- New mobs native to the Sovereign Chorus Valley.
-   - Chorus Slime (Probaly Not the Final Name)
-   - Sovereign Chorus Endermen (Models are work in Progress
-- New mobs native to the Sovereign Chorus Valley. (Still in early stages)
-- Added crafting recipes
-- Port to CurseForge. (Yeah!!!!)
-  
-#### Upcoming Versions
-
-##### (v0.3.0-alpha)
-- Generation Code and Scripting
-- More Biomes! Plus More endermen!!!!!
-- Structures
-- Ambiet particles and Fog
-- New Bosses?
-- Armor, custom ores, and much more!!!
+#### Upcoming Versions: v0.3.0-alpha (Planned)
+- **Overhaul**: Generation code and advanced scripting.
+- **Expansion**: Additional biomes and Enderman variants.
+- **Content**: New structures and ambient particle effects.
+- **Features**: Potential new boss encounters.
+- **Progression**: New armor, custom ores, and advanced gameplay mechanics.
 
 ### Credits & Notes
 - **Developer**: Swordspark Games
 - **Platform**: Minecraft Bedrock Edition
-- **License**: All rights reserved. Do not redistribute without permission.
+- **License**: All rights reserved. Redistribution without permission is prohibited.
 - **Support**: For bugs or feature requests, please open an issue in this repository.
-- **Note**: This add-on is in active development. Some features may change or be removed in future updates. Always backup your worlds before installing new mods.
+- **Disclaimer**: This add-on is in active development. Features and content are subject to change or removal in future updates. Always backup your worlds before installing new modifications.
 
-A sneak peek at what is coming is available in the docs. Check the release notes for more details on upcoming versions.
+A sneak peek at upcoming features is available in the documentation. Check the release notes for detailed information on future versions.
 
 ---
 *Made with ❤️ by Swordspark Games*

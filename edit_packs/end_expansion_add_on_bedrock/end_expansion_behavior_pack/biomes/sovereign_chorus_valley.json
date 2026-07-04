@@ -21,7 +21,7 @@
         "sea_floor_material": "minecraft:end_stone"
       },
       "minecraft:tags": {
-        "tags": ["end", "sovereign-chorus-valley"]
+        "tags": ["the_end", "sovereign-chorus-valley"]
       }
     }
   }

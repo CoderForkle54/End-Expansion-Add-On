@@ -2,8 +2,8 @@
   "format_version": "1.21.60",
   "minecraft:feature_rules": {
     "description": {
-      "identifier": "end_expansion:sovereign_chorus_tree_rule",
-      "places_feature": "end_expansion:sovereign_chorus_tree"
+      "identifier": "swordspark_games:sovereign_chorus_tree_rule",
+      "places_feature": "swordspark_games:sovereign_chorus_tree"
     },
     "conditions": {
       "placement_pass": "vegetation_decoration",

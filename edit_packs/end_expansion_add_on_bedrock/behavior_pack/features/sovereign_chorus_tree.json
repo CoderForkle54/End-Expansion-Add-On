@@ -2,11 +2,11 @@
   "format_version": "1.21.0",
   "minecraft:tree_feature": {
     "description": {
-      "identifier": "end_expansion:sovereign_chorus_tree"
+      "identifier": "swordspark_games:sovereign_chorus_tree"
     },
     "trunk": {
       "trunk_block": {
-        "name": "end_expansion:sovereign_chorus_log"
+        "name": "swordspark_games:sovereign_chorus_log"
       },
       "trunk_height": {
         "min": 9,
@@ -15,7 +15,7 @@
     },
     "foliage": {
       "foliage_block": {
-        "name": "end_expansion:sovereign_chorus_leaves"
+        "name": "swordspark_games:sovereign_chorus_leaves"
       },
       "foliage_placer": {
         "type": "blob",
@@ -24,14 +24,14 @@
       }
     },
     "may_grow_on": [
-      "end_expansion:chorus_grass",
+      "swordspark_games:chorus_grass",
       "minecraft:end_stone",
       "minecraft:dirt"
     ],
     "may_replace": [
       "minecraft:air",
       "minecraft:end_stone",
-      "end_expansion:sovereign_chorus_leaves"
+      "swordspark_games:sovereign_chorus_leaves"
     ],
     "may_grow_through": [
       "minecraft:air",

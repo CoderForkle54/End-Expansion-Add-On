@@ -2,7 +2,7 @@
   "format_version": "1.21.0",
   "minecraft:biome": {
     "description": {
-      "identifier": "end_expansion:sovereign-chorus-valley"
+      "identifier": "swordspark_games:sovereign-chorus-valley"
     },
     "components": {
       "minecraft:climate": {

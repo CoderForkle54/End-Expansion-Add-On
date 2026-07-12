@@ -2,7 +2,7 @@
   "format_version": "1.21.60",
   "minecraft:block": {
     "description": {
-      "identifier": "myname:endstone_coal_ore",
+      "identifier": "swordspark_games:endstone_coal_ore",
       "sound": "stone"
     },
     "components": {
@@ -15,9 +15,9 @@
       }
     }
   },
-  "myname:endstone_iron_ore": {
+  "swordspark_games:endstone_iron_ore": {
     "description": {
-      "identifier": "myname:endstone_iron_ore",
+      "identifier": "swordspark_games:endstone_iron_ore",
       "sound": "stone"
     },
     "components": {
@@ -30,9 +30,9 @@
       }
     }
   },
-  "myname:sovereign_chorus_wood": {
+  "swordspark_games:sovereign_chorus_wood": {
     "description": {
-      "identifier": "myname:sovereign_chorus_wood",
+      "identifier": "swordspark_games:sovereign_chorus_wood",
       "sound": "wood"
     },
     "components": {
@@ -45,9 +45,9 @@
       }
     }
   },
-  "myname:sovereign_chorus_log": {
+  "swordspark_games:sovereign_chorus_log": {
     "description": {
-      "identifier": "myname:sovereign_chorus_log",
+      "identifier": "swordspark_games:sovereign_chorus_log",
       "sound": "wood"
     },
     "components": {
@@ -60,9 +60,9 @@
       }
     }
   },
-  "myname:sovereign_chorus_leaves": {
+  "swordspark_games:sovereign_chorus_leaves": {
     "description": {
-      "identifier": "myname:sovereign_chorus_leaves",
+      "identifier": "swordspark_games:sovereign_chorus_leaves",
       "sound": "grass"
     },
     "components": {

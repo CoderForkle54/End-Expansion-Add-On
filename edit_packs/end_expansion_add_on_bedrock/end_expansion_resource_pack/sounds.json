@@ -1,7 +1,7 @@
 {
 	"entity_sounds": {
 		"entities": {
-			"myname:royal_chorus_enderman": {
+			"swordspark_games:royal_chorus_enderman": {
 				"events": {
 					"ambient": "mob.endermen.idle",
 					"death": "mob.endermen.death",

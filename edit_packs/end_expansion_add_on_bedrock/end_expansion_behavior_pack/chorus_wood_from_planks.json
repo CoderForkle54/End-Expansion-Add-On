@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "swordspark_games:chorus_wood_from_planks"
+    },
+    "tags": ["crafting_table"],
+    "unlock": [
+      { "item": "swordspark_games:sovereign_chorus_planks" }
+    ],
+    "pattern": [
+      "PP",
+      "PP"
+    ],
+    "key": {
+      "P": {
+        "item": "swordspark_games:sovereign_chorus_planks"
+      }
+    },
+    "result": {
+      "item": "swordspark_games:sovereign_chorus_wood",
+      "count": 3
+    }
+  }
+}

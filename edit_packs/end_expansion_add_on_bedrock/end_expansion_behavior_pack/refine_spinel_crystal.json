@@ -1,0 +1,15 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "swordspark_games:smelt_spinel"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "swordspark_games:raw_spinel"
+    },
+    "output": "swordspark_games:spinel_ingot"
+  }
+}
